@@ -1,0 +1,17 @@
+{
+  "name": "dateMe",
+  "displayName": "dateMe",
+  "expo": {
+    "name": "dateMe",
+    "slug": "dateMe",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
