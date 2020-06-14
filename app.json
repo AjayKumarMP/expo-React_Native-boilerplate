@@ -1,6 +1,11 @@
 {
   "name": "dateMe",
   "displayName": "dateMe",
+  "splash": {
+    "image": ".src/assets/images/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#000000"
+  },
   "expo": {
     "name": "dateMe",
     "slug": "dateMe",
